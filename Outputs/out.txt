@@ -1,0 +1,180 @@
+BOOKING COMPLETED:
+PNR Number = 1
+From Station = Delhi
+To Station = Mumbai
+Travel Date = 5/Jul/2021
+Travel Class = AC First Class
+ : Mode: Berth
+ : Comfort: AC
+ : Bunks: 2
+ : Luxury: Yes
+Fare = 4762
+Passenger is: 
+Passenger's Name            : Saumyak  Raj
+Passenger's Aadhar Number   : 842233101212
+Passenger's Date of Birth   : 4/Apr/2002
+Passenger's Gender          : Male
+Passenger's Mobile Number   : 6261171632
+Passenger's Category        : General
+
+
+BOOKING COMPLETED:
+PNR Number = 2
+From Station = Delhi
+To Station = Bangalore
+Travel Date = 16/May/2020
+Travel Class = AC 2 Tier
+ : Mode: Berth
+ : Comfort: AC
+ : Bunks: 2
+ : Luxury: No
+Fare = 4350
+Passenger is: 
+Passenger's Name            : Saumyak  Raj
+Passenger's Aadhar Number   : 842233101212
+Passenger's Date of Birth   : 4/Apr/2002
+Passenger's Gender          : Male
+Passenger's Mobile Number   : 6261171632
+Passenger's Category        : General
+
+
+BOOKING COMPLETED:
+PNR Number = 3
+From Station = Delhi
+To Station = Mumbai
+Travel Date = 9/Jul/2021
+Travel Class = Second Sitting
+ : Mode: Seat
+ : Comfort: Non AC
+ : Bunks: 0
+ : Luxury: No
+Fare = 449
+Passenger is: 
+Passenger's Name            : Suman  Shukla
+Passenger's Aadhar Number   : 842233104545
+Passenger's Date of Birth   : 29/Mar/1975
+Passenger's Gender          : Female
+Passenger's Mobile Number   : 6261171656
+Passenger's Category        : General
+
+
+BOOKING COMPLETED:
+PNR Number = 4
+From Station = Delhi
+To Station = Bangalore
+Travel Date = 15/Jun/2020
+Travel Class = AC Chair Car
+ : Mode: Seat
+ : Comfort: AC
+ : Bunks: 0
+ : Luxury: No
+Fare = 2315
+Passenger is: 
+Passenger's Name            : Suman  Shukla
+Passenger's Aadhar Number   : 842233104545
+Passenger's Date of Birth   : 29/Mar/1975
+Passenger's Gender          : Female
+Passenger's Mobile Number   : 6261171656
+Passenger's Category        : General
+
+
+BOOKING COMPLETED:
+PNR Number = 5
+From Station = Kolkata
+To Station = Mumbai
+Travel Date = 15/Jul/2021
+Travel Class = AC 3 Tier
+ : Mode: Berth
+ : Comfort: AC
+ : Bunks: 3
+ : Luxury: No
+Fare = 2557
+Passenger is: 
+Passenger's Name            : Ram Chandra Raj
+Passenger's Aadhar Number   : 747933101212
+Passenger's Date of Birth   : 15/May/1935
+Passenger's Gender          : Male
+Passenger's Mobile Number   : 6261171632
+Passenger's Category        : Senior Citizen
+
+
+BOOKING COMPLETED:
+PNR Number = 6
+From Station = Chennai
+To Station = Delhi
+Travel Date = 15/Jul/2021
+Travel Class = AC 2 Tier
+ : Mode: Berth
+ : Comfort: AC
+ : Bunks: 2
+ : Luxury: No
+Fare = 4410
+Passenger is: 
+Passenger's Name            : Tony  
+Passenger's Aadhar Number   : 842233101212
+Passenger's Date of Birth   : 4/May/1999
+Passenger's Gender          : Male
+Passenger's Mobile Number   : 6261171632
+Passenger's Category        : Divyaang
+
+
+BOOKING COMPLETED:
+PNR Number = 7
+From Station = Chennai
+To Station = Mumbai
+Travel Date = 5/Aug/2020
+Travel Class = First Class
+ : Mode: Berth
+ : Comfort: Non AC
+ : Bunks: 2
+ : Luxury: Yes
+Fare = 1053
+Passenger is: 
+Passenger's Name            : Tony  
+Passenger's Aadhar Number   : 842233101212
+Passenger's Date of Birth   : 4/May/1999
+Passenger's Gender          : Male
+Passenger's Mobile Number   : 6261171632
+Passenger's Category        : Divyaang
+
+
+BOOKING COMPLETED:
+PNR Number = 8
+From Station = Mumbai
+To Station = Kolkata
+Travel Date = 15/Aug/2021
+Travel Class = AC First Class
+ : Mode: Berth
+ : Comfort: AC
+ : Bunks: 2
+ : Luxury: Yes
+Fare = 6605
+Passenger is: 
+Passenger's Name            : Steve  Hand
+Passenger's Aadhar Number   : 842233101212
+Passenger's Date of Birth   : 4/May/1945
+Passenger's Gender          : Male
+Passenger's Mobile Number   : 6261171632
+Passenger's Category        : Divyaang
+
+
+BOOKING COMPLETED:
+PNR Number = 9
+From Station = Mumbai
+To Station = Bangalore
+Travel Date = 25/Jul/2020
+Travel Class = Second Sitting
+ : Mode: Seat
+ : Comfort: Non AC
+ : Bunks: 0
+ : Luxury: No
+Fare = 88
+Passenger is: 
+Passenger's Name            : Steve  Hand
+Passenger's Aadhar Number   : 842233101212
+Passenger's Date of Birth   : 4/May/1945
+Passenger's Gender          : Male
+Passenger's Mobile Number   : 6261171632
+Passenger's Category        : Divyaang
+
+
