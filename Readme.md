@@ -1,9 +1,6 @@
 # Description of Source.zip
 
-## Made By Saumyak Raj (19CS30040)
-
-## Link to code: 
-https://github.com/saumyakraj/Railway-Management-System
+## Made By Shubham Kumar
 
 ## Files in "Code" Folder:
 
