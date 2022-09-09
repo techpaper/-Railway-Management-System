@@ -1,5 +1,5 @@
-//SAUMYAK RAJ
-//19CS30040
+
+
 
 #include<iostream>
 using namespace std;

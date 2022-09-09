@@ -1,5 +1,5 @@
-//SAUMYAK RAJ
-//19CS30040
+
+
 
 #ifndef _GENDER_H
 #define _GENDER_H
