@@ -47,6 +47,7 @@ class Concession{
 
     static const vector <vector <double>> Concession_Value; 
     
+    
 public: 
 
     static const Concession& ConcessionFact(){

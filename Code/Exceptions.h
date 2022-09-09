@@ -7,6 +7,7 @@
 #include<iostream>
 using namespace std;
 
+
 class Bad_Date: public exception{
     public:
         const char* what() const throw();

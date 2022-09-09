@@ -114,6 +114,7 @@ public:
         return BClass<T>::reservationCharge ; 
     }
     // void UnitTest() ; 
+    
 };
 
 ostream& operator<<(ostream& out, const BookingClasses& bClass) ; 

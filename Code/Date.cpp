@@ -144,6 +144,7 @@ void Date::IsValid(UINT d, UINT m, UINT y){
         if (d > 30) // months with 30 days
             throw Bad_Date();
     }
+    
     // }
     // catch (const Bad_Date &e)
     // {

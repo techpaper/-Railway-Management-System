@@ -14,6 +14,7 @@ int Station::GetDistance(string station2) const{
 
 Station::~Station() {}
 
+
 bool Station::operator==(const Station &s){
     if(s.GetName() == name_)    return true ; 
     else return false ; 

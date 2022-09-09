@@ -52,6 +52,7 @@ public:
     } // Salutation parametrized by static
 };
 
+
 inline bool Gender::IsMale(const Gender &g) { return &g == &Gender::Male::Type(); }
 #endif
 // __GENDER_H#endif // __GENDER_H

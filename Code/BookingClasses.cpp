@@ -191,6 +191,7 @@ const bool BookingClasses::SecondSitting::sitting = true ;
 template<>
 const int BookingClasses::SecondSitting::tiers = 0 ;
 
+
 ostream& operator<<(ostream& out, const BookingClasses& bClass){
 	out << "Travel Class = " << bClass.GetName() << endl ; 
 	out << " : Mode: " ; 			

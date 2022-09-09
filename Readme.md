@@ -7,7 +7,7 @@
 1. Date.h and Date.cpp - Implementation of class Date.
 2. Station.h and Station.cpp - Implementation of class Station.
 3. Passenger.h and Passenger.cpp - Implementation of class Passenger.
-4. BookingClasses.h and BookingClasses.cpp - Implementation of class BookingClasses and its parametric hierarchy.
+4. BookingClasses.h  and BookingClasses.cpp - Implementation of class BookingClasses and its parametric hierarchy.
 5. Railways.h and Railways.cpp - Implementation of class Railways.
 6. Gender.h and Gender.cpp - Implementation of class Gender.
 7. Exceptions.h and Exceptions.cpp - Implementation of hierarchy of class Exceptions.

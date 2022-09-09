@@ -6,6 +6,7 @@
 
 using namespace std;
 
+
 // Names defined as static constants
 template <>
 const string Gender::Male::sName = "Male";

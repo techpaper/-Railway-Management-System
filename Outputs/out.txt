@@ -18,6 +18,7 @@ Passenger's Mobile Number   : 6261171632
 Passenger's Category        : General
 
 
+
 BOOKING COMPLETED:
 PNR Number = 2
 From Station = Delhi

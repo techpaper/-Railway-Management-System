@@ -65,6 +65,7 @@ public:
 
     static void IsValidBooking(const Station &fS, const Station &toS, string bDate, string rDate, const BookingClasses &bClass, const BookingCategories &bCateg, const Passenger& pass_) ; 
 
+
     Booking operator=(const Booking& b) ; 
 
     friend ostream& operator<<(ostream&os, const Booking& booking) ;  

@@ -140,6 +140,7 @@ void Booking::IsValidBooking(const Station &fS, const Station &toS, string bDate
 
 }
 
+
 const Booking& Booking::DoBooking(const Station &fS, const Station &toS, string bDate, string rDate, const BookingClasses &bClass, const BookingCategories &bCateg, const Passenger& pass_){
 
     Booking::IsValidBooking(fS, toS, bDate, rDate, bClass, bCateg, pass_) ; 
